@@ -1,6 +1,6 @@
 # Chance_Bloomed_Under_Orders
 
-![img_18.968102](img_18.968102.png)
+![img_18.968102](/data/img_18.968102.png)
 
 Online experience via openProcessing: https://www.openprocessing.org/sketch/729225
 
@@ -23,12 +23,12 @@ The audience made decisions in the preset menu, as 'they were aware of whay they
 
 More image results:
 
-![img_59.611122](img_59.611122.png)
+![img_59.611122](/data/img_59.611122.png)
 
-![img_59.692722](img_59.692722.png)
+![img_59.692722](/data/img_59.692722.png)
 
-![img_21.552109](img_21.552109.png)
+![img_21.552109](/data/img_21.552109.png)
 
-![img_58.28369](img_58.28369.png)
+![img_58.28369](/data/img_58.28369.png)
 
 Project created during my MA at Goldsmiths Computational Arts.
