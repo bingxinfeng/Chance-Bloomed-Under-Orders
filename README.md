@@ -10,6 +10,7 @@ This project is a dynamic poster generating system.
 The main visual of the poster - a flower, would be growing in many different ways depending on the audience's preferred decision. The project aims to explore the beauty of generative arts, as well as to reflect on the relationship between order and chaos, computing and nature, decision and intangibility.
  
 > Order vs Chaos
+
 > Computing vs Nature
  
 In the process of studying programming and coding, I found that there're so many logics, so many debugs. But in computational arts, the relation between the artist and the computer is not just human-control-computer or computer-control-human. We don't control it, we let the chaos happen, we watch it, respond to it, and collaborate with it.
